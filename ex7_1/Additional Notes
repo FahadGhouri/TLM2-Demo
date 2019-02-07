@@ -1,0 +1,13 @@
+First read size
+Do usual trans setup and read at 0, then check response accepted and okay response
+
+Control Pipeline, check for entries more than 2 ,, butttt pipeline is already implemented, need not to implement
+
+
+Use event
+
+
+
+
+7.2, replace fifo with peq
+use peq.notify and peq.get
